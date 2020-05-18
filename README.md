@@ -1,3 +1,5 @@
+# DEPRECATED See: https://github.com/codefresh-io/steps/tree/master/incubating/k8s-blue-green-deployment
+
 # Kubernetes blue green deployments
 
 This repository holds a bash script that allows you to perform blue/green deployments on a Kubernetes cluster.
